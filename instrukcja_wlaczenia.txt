@@ -1,0 +1,9 @@
+1. Aby program działał należy mieć zainstalowany język oprogramowania - Python na komputerze oraz program odczytujący ten język (np. PyCharm).
+2. Następnie należy kliknąć na plik main.py i otworzyć go w programie PyCharm.
+3. Powinno pojawić się okno o tytule 'Open in Project' i należy kliknąć opcję 'Open in Project'.
+4. Na górze kodu powinny pojawić się dwie informacje - ściągnięcie gramatyki dla języka polskiego oraz wybranie odpowiedniego interpretera dla projektu.
+   Może to trochę czasu zająć zanim się pojawi. Następnie należy przy drugiej informacji kliknąć Configure Python interpreter -> Add interpreter -> Ok.
+5. Następnie należy ściągnąc dwie biblioteki - numpy oraz pygame. Znajdują się one podkreślone w 3 i 4 linijce kodu. Należy na nie najechać i powinno 
+   pojawić się małe okienko z opcją zainstalowania biblioteki. Trochę trzeba odczekać aż biblioteki się zainstalują. Powinno się pojawić z boku
+   okienko informujące o zakończeniu instalacji obu bibliotek.
+6. Z górnej wstążki należy wybrać Run -> Run -> main.
